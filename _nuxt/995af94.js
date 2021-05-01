@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{214:function(e,n,t){"use strict";t.r(n);var c=t(23),component=Object(c.a)({},(function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"main"},[t("center",[t("h1",[e._v("Please specify a question to show")])])],1)}),[],!1,null,null,null);n.default=component.exports}}]);
